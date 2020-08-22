@@ -1,0 +1,11 @@
+version: "3.4"
+
+services:
+  python:
+    image: python:3.7-slim
+    ports:
+      - "8888:8888"
+    working_dir: /work
+    volumes:
+      - ../:/work
+    entrypoint: '/bin/bash -c'
