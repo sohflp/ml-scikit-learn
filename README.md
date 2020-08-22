@@ -1,10 +1,12 @@
 # Machine Learning - End-to-end project with Scikit Learn
 
-## Datasets
+## Datasets from Kaggle
 
-### NSW Transport Open Data
+https://www.kaggle.com/datasets
 
-https://opendata.transport.nsw.gov.au/
+### House prices in London
+
+https://www.kaggle.com/justinas/housing-in-london
 
 ## Start Jupyter notebook
 
